@@ -1,0 +1,49 @@
+h1{
+    color:purple;
+}
+
+* {
+    border:solid;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #298375;
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color: #ffffff; 
+}
+
+body{
+    margin: 0px;
+    background-color: white;
+}
+
+.grid img{
+    border: 2px solid #7456;
+    border-radius: 50px;
+}
+
+.origami {
+
+    border-radius: 20px;
+    background-color: #232323;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
